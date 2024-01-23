@@ -15,7 +15,7 @@ A simple Flask web application for managing transactions.
 1. Clone the repository:
 
     ```bash
-    git clone https://PromiseUgochukwuNnanemere/obmnl-flask_assignment.git
+    git clone https://github.com/PromiseUgochukwuNnanemere/obmnl-flask_assignment.git
     ```
 
 2. Navigate to the project directory:
